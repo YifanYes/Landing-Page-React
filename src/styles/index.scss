@@ -1,0 +1,32 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+.card{
+    width: 18rem;
+    border-radius: 1rem;
+    margin: 1rem;
+    overflow: hidden;
+    margin-top: 6rem;
+    margin-bottom: 6rem;
+}
+
+.card-group {
+ justify-content: space-around;
+}
+
+.btn-flat {
+    background-color: #83e25a;
+    color: white;
+}
+
+#navBardFood{
+    background: #D4FCC3;
+    align-content: center;
+}
+.imgLogo{
+    width:8rem;
+	height:5rem;
+}
+
+.inputForm {
+    margin-top: 6rem;
+}
