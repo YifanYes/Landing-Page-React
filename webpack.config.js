@@ -67,7 +67,6 @@ module.exports = {
       Dropdown: "exports-loader?Dropdown!bootstrap/js/dist/dropdown"
     }),
     new HtmlWebpackPlugin({
-        favicon: 'tictactoe.ico',
         template: 'template.html'
     }),
     new PrettierPlugin({
